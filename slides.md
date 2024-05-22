@@ -10,7 +10,7 @@ title: first
 Presentation subtitle
 
 ---
-layout: cover
+layout: center
 title: second
 ---
 
@@ -19,3 +19,11 @@ title: second
 ## hmmm
 
 yes
+
+<mdi-Cellphone />
+<mdi-skull />
+
+<br>
+<br>
+
+# <mdi-EmoticonCryOutline /> nice
